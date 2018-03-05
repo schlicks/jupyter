@@ -8,13 +8,13 @@ First section
 First subsection
 ----------------
 
-Standard paragraph including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an direct URL reference: http://www.wikipedia.org
+Standard block including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an direct URL reference: http://www.wikipedia.org
 
-> Quoted paragraph (starting with ``> ``) including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an indirect URL reference: [Wikipedia](http://www.wikipedia.org)
+> Quoted block (starting with **>**) including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an indirect URL reference: [Wikipedia](http://www.wikipedia.org)
 
-    Literal paragraph (starting with ``    ``), preserving any layout and *special* characters
+    Literal block (starting with four spaces), preserving any layout and *special* characters
 
-And finally a standard paragraph introducing an interactive Python session
+And finally a source block paragraph introducing an interactive Python session
 
 >>> sum(range(5))
 10
@@ -38,13 +38,9 @@ A. First item of (alphabetical) ordered list
 A. Second item of ordered list
 A. Third item of ordered list
 
-First term of definition list
-  First item of definition list
-**Second term of definition list** (in bold)
-  Second item of definition list
-
-:First field:    First item of field list
-:Second field:   Second item of field list
+- [x] First item of todo list
+- [x] Second item of definition list
+- [] Third item of definition list
 
 ----
 
