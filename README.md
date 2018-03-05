@@ -1,6 +1,4 @@
-# Markdown and GitHub Flavor Markdown
-
----
+# MARKDOWN ANS GITHUB FLAVOR MARKDOWN
 
 <!-- First comment -->
 
