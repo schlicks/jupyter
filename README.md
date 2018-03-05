@@ -1,19 +1,20 @@
 # Markdown and GitHub Flavor Markdown
-<hr>
 
-[//]#(First comment)
-
-[](First comment)
+<!-- First comment -->
 
 First section
 =============
 
+# Second section
+
 First subsection
 ----------------
 
+## Second subsection
+
 Standard paragraph including *some words in italics*, **some words in bold** ``some words in monospace``, and even an direct URL reference: http://www.wikipedia.org
 
-    Quoted paragraph including *some words in italics*, **some words in bold**, ``some words in monospace``, and even an indirect URL reference: `Wikipedia <http://www.wikipedia.org>`_
+> Quoted paragraph including *some words in italics*, **some words in bold**, ``some words in monospace``, and even an indirect URL reference: [Wikipedia](http://www.wikipedia.org)
 
         Double quoted paragraph including *some words in italics*, **some words in bold**, ``some words in monospace``, and another indirect URL reference: Wikipedia_ 
 
