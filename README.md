@@ -1,2 +1,2 @@
-# test
+# New test
 Some tests
