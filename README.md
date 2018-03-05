@@ -16,7 +16,7 @@ Standard block including *some words in italics*, **some words in bold**, _**som
 
     Literal block (starting with four spaces), preserving any layout and *special* characters
 
-And finally a source block (starting with **\~\~\~** with syntax highlighting
+And finally a source block (starting with **\~\~\~**), preserving layout and including syntax highlighting
 
 ~~~python
 a = sum(range(5))
@@ -43,15 +43,3 @@ A. Third item of ordered list
 - [ ] Third item of definition list
 
 ----
-
-| References to numeric footnotes [#]_ and [#]_
-| References to symbolic footnotes [*]_ and [*]_
-| References to bibliography [ABC2000]_ and [XYZ2000]_
-| Document jumps: go to `First section`_ or go to lists_ paragraph
-
-.. [#] First footnote
-.. [#] Second footnote
-.. [*] Third footnote
-.. [*] Fourth footnote
-.. [ABC2000] First bibliographic reference
-.. [XYZ2000] Second bibliographic reference
