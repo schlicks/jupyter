@@ -16,11 +16,11 @@ Standard block including *some words in italics*, **some words in bold**, _**som
 
     Literal block (starting with four spaces), preserving any layout and *special* characters
 
-And finally a source block with syntax highlighting
+And finally a source block (starting with **\~\~\~** with syntax highlighting
 
-```python
+~~~python
 a = sum(range(5))
-```
+~~~
 
 # Second section
 
