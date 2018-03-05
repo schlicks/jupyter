@@ -1,5 +1,7 @@
 # Markdown and GitHub Flavor Markdown
 
+---
+
 <!-- First comment -->
 
 First section
@@ -14,13 +16,11 @@ Standard block including *some words in italics*, **some words in bold**, _**som
 
     Literal block (starting with four spaces), preserving any layout and *special* characters
 
-And finally a source block paragraph introducing an interactive Python session
+And finally a source block with syntax highlighting
 
->>> sum(range(5))
-10
-
-.. Second comment : the next line defines an document anchor
-.. _lists:
+```python
+a = sum(range(5))
+```
 
 # Second section
 
@@ -30,7 +30,7 @@ And finally a source block paragraph introducing an interactive Python session
 * Second item of unordered list
 * Third item of unordered list
 
-1. First item of (numerical) ordered list
+1. First item of ordered list
 1. Second item of ordered list
 1. Third item of ordered list
 
@@ -40,7 +40,7 @@ A. Third item of ordered list
 
 - [x] First item of todo list
 - [x] Second item of definition list
-- [] Third item of definition list
+- [ ] Third item of definition list
 
 ----
 
