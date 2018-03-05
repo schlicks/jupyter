@@ -32,10 +32,6 @@ a = sum(range(5))
 1. Second item of ordered list
 1. Third item of ordered list
 
-A. First item of (alphabetical) ordered list
-A. Second item of ordered list
-A. Third item of ordered list
-
 - [x] First item of todo list
 - [x] Second item of definition list
 - [ ] Third item of definition list
