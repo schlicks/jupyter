@@ -1,2 +1,0 @@
-# Old test
-Some tests
