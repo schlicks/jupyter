@@ -8,13 +8,11 @@ First section
 First subsection
 ----------------
 
-Standard paragraph including *some words in italics*, **some words in bold** ``some words in monospace``, and even an direct URL reference: http://www.wikipedia.org
+Standard paragraph including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an direct URL reference: http://www.wikipedia.org
 
-> Quoted paragraph including *some words in italics*, **some words in bold**, ``some words in monospace``, and even an indirect URL reference: [Wikipedia](http://www.wikipedia.org)
+> Quoted paragraph (starting with ``> ``) including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an indirect URL reference: [Wikipedia](http://www.wikipedia.org)
 
-Another standard paragraph, but ending with `::` to introduce a literal paragraph::
-
-    Literal paragraph, preserving any layout and *special* characters
+    Literal paragraph (starting with ``    ``), preserving any layout and *special* characters
 
 And finally a standard paragraph introducing an interactive Python session
 
