@@ -18,7 +18,8 @@ And finally a source block (starting with **\~\~\~**), preserving layout and inc
 
 ~~~python
 >>> a = sum(range(5))
-10
+>>> a**2
+100
 ~~~
 
 # Second section
