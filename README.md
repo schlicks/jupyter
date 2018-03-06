@@ -15,7 +15,6 @@ Standard block including **some words in bold**, *some words in italics*, _**som
     Literal block (starting with four spaces), preserving   any   layout and *special* characters
 
 And finally a source block (delimited by **\~\~\~**), preserving layout and including syntax highlighting
-
 ~~~python
 >>> a = sum(range(5))
 >>> a**2
