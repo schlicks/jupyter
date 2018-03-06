@@ -8,9 +8,9 @@ First section
 First subsection
 ----------------
 
-Standard block including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an direct URL reference: http://www.wikipedia.org
+Standard block including **some words in bold**, *some words in italics*, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an direct URL reference: http://www.wikipedia.org
 
-> Quoted block (starting with **>**) including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an indirect URL reference: [Wikipedia](http://www.wikipedia.org)
+> Quoted block (starting with **>**) including **some words in bold**, *some words in italics*, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an indirect URL reference: [Wikipedia](http://www.wikipedia.org)
 
     Literal block (starting with four spaces), preserving   any   layout and *special* characters
 
