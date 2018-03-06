@@ -17,7 +17,8 @@ Standard block including *some words in italics*, **some words in bold**, _**som
 And finally a source block (starting with **\~\~\~**), preserving layout and including syntax highlighting
 
 ~~~python
-a = sum(range(5))
+>>> a = sum(range(5))
+10
 ~~~
 
 # Second section
