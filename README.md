@@ -33,7 +33,7 @@ a = sum(range(5))
 1. Third item of ordered list
 
 - [x] First item of todo list
-- [x] Second item of definition list
-- [ ] Third item of definition list
+- [x] Second item of todo list
+- [ ] Third item of todo list
 
 ----
