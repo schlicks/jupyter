@@ -12,9 +12,9 @@ Standard block including *some words in italics*, **some words in bold**, _**som
 
 > Quoted block (starting with **>**) including *some words in italics*, **some words in bold**, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an indirect URL reference: [Wikipedia](http://www.wikipedia.org)
 
-    Literal block (starting with four spaces), preserving any layout and *special* characters
+    Literal block (starting with four spaces), preserving   any   layout and *special* characters
 
-And finally a source block (starting with **\~\~\~**), preserving layout and including syntax highlighting
+And finally a source block (delimited by **\~\~\~**), preserving layout and including syntax highlighting
 
 ~~~python
 >>> a = sum(range(5))
